@@ -1,0 +1,9 @@
+servicio\AsistenteServiceImp.class
+web\VerAsistentesServlet.class
+DAO\AsistentesDAO.class
+cl\inacap\RegistroAsistentes\JAXRSConfiguration.class
+cl\inacap\RegistroAsistentes\resources\JavaEE8Resource.class
+servicio\AsistenteService.class
+web\RegistrarAsistenteServlet.class
+DAO\AsistentesDAOImp.class
+Model\Asistente.class
